@@ -1,0 +1,29 @@
+[
+  //Add vanilla UI elements
+  {
+    "op" : "replace",
+    "path" : "/paneLayout/lblSmeltTab/position/1",
+    "value" : 297
+  },
+  {
+    "op" : "add",
+    "path" : "/paneLayout/lblCoalesceTab/position/1",
+    "value" : 297
+  },
+  {
+    "op" : "replace",
+    "path" : "/paneLayout/categories/buttons/2/position/1",
+    "value" : 295
+  },
+  {
+    "op" : "replace",
+    "path" : "/paneLayout/categories/buttons/3/position/1",
+    "value" : 295
+  },
+  //Fracking GUI restored
+  {
+    "op": "replace",
+    "path": "/paneLayout/background/fileBody",
+    "value": "/interface/crafting/extended/fu_furnacebody.png"
+  }
+]
