@@ -2,7 +2,7 @@
   "author" : "Bardez",
   "description" : "This mod is a compatability patch between three others:\n[list]\n  [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=729480149]Frackin' Universe[/url]\n  [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2895554927]Molten Liquids tabs for Furnace[/url]\n[/list]\n\n\n\nBoring Stuff:\n[url=https://github.com/BardezAnAvatar/Starbound-bardez-furnace-liquids-frackin]Source on GitHub[/url]",
   "friendlyName" : "Molten Liquids tabs for Furnace: Fission Furnace/Extended GUI Patch",
-  "includes" : ["bardez_furnace_liquids", "FrackinUniverse", "FUExGUIPatch"],
+  "includes" : ["bardez_furnace_liquids_patch_fission_furnace", "FUExGUIPatch"],
   "name" : "bardez_furnace_liquids_patch_fission_furnace_extended_gui",
   "tags" : "Crafting and Building|User Interface",
   "version" : "1.0.0"
