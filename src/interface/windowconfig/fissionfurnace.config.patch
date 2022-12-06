@@ -6,7 +6,7 @@
     "value" : 297
   },
   {
-    "op" : "add",
+    "op" : "replace",
     "path" : "/paneLayout/lblCoalesceTab/position/1",
     "value" : 297
   },
